@@ -1,0 +1,67 @@
+div._loading_overlay_wrapper {
+    position: unset;
+
+    ._loading_overlay_overlay {
+        z-index: 10000;
+    }
+}
+
+.patient-manage-container {
+
+    .patient-manage-body {
+        padding: 15px 20px;
+        margin-left: 200px;
+
+        .button-control {
+            margin-top: 30px;
+
+            button {
+                outline: none !important;
+            }
+        }
+
+        .user-table {
+
+            .btn-delete {
+                color: rgb(243, 77, 77) !important;
+
+                &:hover {
+                    color: rgb(204, 85, 6) !important;
+                }
+            }
+        }
+
+        .history-table {
+            font-family: Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+
+            table {
+                min-width: 1050px;
+            }
+
+            td,
+            th {
+                border: 1px solid #ddd;
+                padding: 8px;
+            }
+
+            tr:nth-child(even) {
+                background-color: #f2f2f2;
+            }
+
+            tr:hover {
+                background-color: #ddd;
+            }
+
+            th {
+                padding-top: 12px;
+                padding-bottom: 12px;
+                text-align: left;
+                background-color: #04AA6D;
+                color: white;
+            }
+        }
+    }
+
+}

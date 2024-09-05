@@ -1,0 +1,132 @@
+{
+    "home-header": {
+        "speciality": "Medical specialty",
+        "search-doctor": "Find a doctor by specialty",
+        "health-facility": "Health facilities",
+        "select-room": "Choose hospital clinic",
+        "doctor": "Doctor",
+        "select-doctor": "Choose a good doctor",
+        "handbook": "Handbooks",
+        "health-handbook": "Health handbook",
+        "support": "Support",
+        "welcome": "Welcome, "
+    },
+    "banner": {
+        "title1": "Medical Platform",
+        "title2": "Comprehensive health care",
+        "child1": "Specialist examination",
+        "child2": "Remote examination",
+        "child3": "General examination",
+        "child4": "Medical test",
+        "child5": "Mental health",
+        "child6": "Dental examination"
+    },
+    "homepage": {
+        "outstanding-doctor": "Last week's featured doctor",
+        "more-info": "More info",
+        "specialty": "Popular specialties"
+    },
+    "menu": {
+        "admin": {
+            "user-manage": "Users",
+            "doctor-manage": "Doctors management",
+            "admin-manage": "Admins management",
+            "crud": "Account management",
+            "crud-redux": "Users management",
+            "clinic": "Clinics",
+            "clinic-manage": "Clinics management",
+            "specialty": "Specialties",
+            "specialty-manage": "Specialties management",
+            "handbook": "Handbooks",
+            "handbook-manage": "Handbooks management"
+        },
+        "doctor": {
+            "schedule-manage": "Schedule management",
+            "patient-manage": "Patient management"
+        }
+    },
+    "user-manage": {
+        "title": "User Management",
+        "email": "Email",
+        "password": "Password",
+        "firstName": "First name",
+        "lastName": "Last name",
+        "phoneNumber": "Phone number",
+        "address": "Address",
+        "gender": "Gender",
+        "position": "Position",
+        "roleId": "RoleID",
+        "image": "Image",
+        "choose": "Choose",
+        "submit": "Submit",
+        "save": "Save",
+        "upload": "Upload File"
+    },
+    "doctor-manage": {
+        "title": "Manage Doctors Detail Information",
+        "select-doctor": "Select Doctor",
+        "description": "Description",
+        "price": "Choose price",
+        "payment": "Choose payment",
+        "province": "Choose province",
+        "clinic-name": "Clinic name",
+        "clinic-address": "Clinic address",
+        "clinic": "Choose clinic",
+        "specialty": "Choose specialty",
+        "note": "Note",
+        "edit-info": "Edit info",
+        "save-info": "Save info",
+        "ph-doctor": "Choose doctor",
+        "ph-price": "Choose price",
+        "ph-payment": "Choose payment",
+        "ph-province": "Choose province"
+    },
+    "schedule-manage": {
+        "title": "Manage doctor's schedule",
+        "select-doctor": "Select doctor",
+        "select-date": "Select date",
+        "save": "Save info"
+    },
+    "patient": {
+        "detail-doctor": {
+            "schedule": "Schedule",
+            "schedule-none": "The doctor does not have an appointment schedule during this time!",
+            "choose": "Choose ",
+            "booking": " and book (free)"
+        },
+        "extra-info-doctor": {
+            "clinic-address": "Address of clinic",
+            "price": "Examination price: ",
+            "detail-btn": "View detail",
+            "payment": "The patient can pay the cost by payment method: ",
+            "hide-btn": "Hide"
+        },
+        "booking-modal": {
+            "title": "Information booking appointment",
+            "full-name": "Full name",
+            "phone-number": "Phone number",
+            "address": "Address",
+            "email": "Email",
+            "gender": "Gender",
+            "date": "Booking date",
+            "reason": "Reason for medical examination",
+            "confirm": "Confirm",
+            "cancel": "Cancel",
+            "priceTitle": "Free to booking",
+            "price": "Price"
+        }
+    },
+    "clinic-manage": {
+        "title": "Clinic management",
+        "name": "Clinic's name",
+        "image": "Clinic's image",
+        "address": "Clinic's address",
+        "save-btn": "Save"
+    },
+    "specialty-manage": {
+        "title": "Specialty Management",
+        "name": "Specialty's name",
+        "image": "Specialty's image",
+        "save-btn": "Save"
+    }
+}

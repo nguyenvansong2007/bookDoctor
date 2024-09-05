@@ -1,0 +1,21 @@
+.specialty-manage-container {
+    padding: 10px 100px;
+
+    .specialty-content {
+        padding-top: 20px;
+
+        label {
+            font-size: 15px;
+            font-weight: 600;
+        }
+
+        .btn-add {
+            margin-top: 15px;
+            border-radius: 3px;
+            outline: none;
+            padding: 0 10px;
+            background-color: #ffdb49;
+            color: #1a1a1a
+        }
+    }
+}

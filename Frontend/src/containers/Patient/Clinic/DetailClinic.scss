@@ -1,0 +1,67 @@
+.detail-specialty-container {
+    .specialty-description {
+        height: fit-content;
+        padding: 0 100px;
+        margin-top: 15px;
+    }
+
+    .specialty-body {
+        padding: 0 100px;
+        background: #eee;
+        display: flex;
+        flex-direction: column;
+
+        .search-province-doctor {
+            margin-top: 15px;
+
+            .select-province {
+                word-wrap: normal;
+                height: 30px;
+                padding: 5px 8px;
+                border: none;
+                outline: none;
+                border-radius: 3px;
+                cursor: pointer;
+            }
+        }
+
+        .specialty-info-content {
+            display: flex;
+            width: 100%;
+            min-height: 300px;
+            margin: 20px 0;
+            background: #fff;
+            border: 1px solid #e9e8e8;
+            border-radius: 5px;
+            justify-content: space-between;
+
+            .specialty-left-content {
+                width: 48%;
+
+            }
+
+            .specialty-right-content {
+                width: 48%;
+                padding: 5px;
+
+                .doctor-schedule {
+                    .doctor-schedule-container {
+                        min-height: fit-content !important;
+                        border-right: none !important;
+                    }
+                }
+
+                .doctor-extra-info {
+                    border-top: 1px solid #ddd;
+                    margin-top: 10px;
+                    padding-top: 10px;
+
+                    .doctor-extra-info-container {
+                        padding-left: 0 !important;
+                    }
+                }
+            }
+        }
+
+    }
+}
